@@ -2,9 +2,12 @@
 
 🌱 Here are my tech stacks:
 - React
+- Next JS
 - React Native
 - Nest JS
 - Typescript
+- Supabase
+- MongoDB
 - Laravel
 - Flutter
 
